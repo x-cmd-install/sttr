@@ -7,7 +7,7 @@ about:
   head: a024bff
   archived: false
   latestVersion: v0.2.30
-  collectedAt: 2026-09-04T19:25:09Z
+  collectedAt: 2026-09-04T21:07:44Z
 timeline:
   created: 2021-09-18
   lastCommit: 2025-12-25
@@ -82,5 +82,38 @@ total:
   openIssue: 11
   commit: 250
 ---
+path: /home/runner/.x-repo/github.com/abhimanyu003/sttr
+collectedAt: 2026-09-04T21:07:45Z
+loc:
+  Go:
+    code: 14950
+    comments: 734
+    blanks: 1952
+    files: 132
+  Sh:
+    code: 362
+    comments: 13
+    blanks: 18
+    files: 1
+  Toml:
+    code: 20
+    comments: 49
+    blanks: 18
+    files: 1
+  Svg:
+    code: 11
+    comments: 0
+    blanks: 16
+    files: 1
+  Markdown:
+    code: 0
+    comments: 358
+    blanks: 153
+    files: 6
+total:
+  code: 15419
+  comments: 1154
+  blanks: 2171
+  files: 141
 ---
 
