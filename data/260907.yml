@@ -5,13 +5,13 @@ about:
   head: a024bff
   archived: false
   latestVersion: "v0.2.30"
-  collectedAt: 2026-09-07T05:43:46Z
+  collectedAt: 2026-09-07T18:47:18Z
 timeline:
   created: 2021-09-18
   lastCommit: 2025-12-25
   lastRelease: 2025-12-25
 popularity:
-  star: 1347
+  star: 1348
   watcher: 8
   fork: 49
   release: 34
@@ -81,7 +81,7 @@ total:
   commit: 250
 ---
 path: /home/runner/.x-repo/github.com/abhimanyu003/sttr
-collectedAt: 2026-09-07T05:43:47Z
+collectedAt: 2026-09-07T18:47:22Z
 loc:
   Go:
     code: 14950
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:47+00:00
+  collectedAt: 2026-09-07T18:47:31+00:00
   platform:
     darwin/arm64:
       name:  sttr_Darwin_all.tar.gz
