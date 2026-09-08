@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9863,
       "digest": "sha256:bcbe451f821b64236e676ee60b0a009b453f666458aba910e99042cc91707892",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-12-25T11:17:38Z",
       "updated_at": "2025-12-25T11:17:39Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_checksums.txt.sigstore.json"
