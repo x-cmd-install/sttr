@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3097863,
       "digest": "sha256:351bf52966de53fd4453b153d935c18b983b1f024f2b98abdc3c7a6f80081349",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2025-12-25T11:17:36Z",
       "updated_at": "2025-12-25T11:17:36Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_386.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 2890407,
       "digest": "sha256:3653d0b1ebebae7cc93e96260d03a872698e3bc689f3162de31c758f25331311",
-      "download_count": 322,
+      "download_count": 323,
       "created_at": "2025-12-25T11:17:35Z",
       "updated_at": "2025-12-25T11:17:35Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 3135552,
       "digest": "sha256:f4cb5b240853b53f67d7b789c9cf5969e794675c5c38aad2ed5ff2c065be4c19",
-      "download_count": 2758,
+      "download_count": 2762,
       "created_at": "2025-12-25T11:17:35Z",
       "updated_at": "2025-12-25T11:17:35Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_x86_64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 2924393,
       "digest": "sha256:0d14e1a39dc3312bff3497bf2ec7097fb32327e6e9382ccb6f9601f3eede9ba9",
-      "download_count": 375,
+      "download_count": 376,
       "created_at": "2025-12-25T11:17:34Z",
       "updated_at": "2025-12-25T11:17:35Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_arm64.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 3109862,
       "digest": "sha256:985eacfc52ac65f7ee35c3a54b9c145606c6017dcc58f27b4583affaa029860d",
-      "download_count": 500,
+      "download_count": 501,
       "created_at": "2025-12-25T11:17:34Z",
       "updated_at": "2025-12-25T11:17:35Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_i386.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3214009,
       "digest": "sha256:3f15bd8c7801fd2c5b10b86129e636bf1d39a1521229c285f01492c1145c21a1",
-      "download_count": 650,
+      "download_count": 653,
       "created_at": "2025-12-25T11:17:35Z",
       "updated_at": "2025-12-25T11:17:35Z",
       "browser_download_url": "https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_x86_64.zip"
