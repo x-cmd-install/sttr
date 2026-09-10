@@ -4,13 +4,25 @@
 
 cross-platform, cli app to perform various operations on string
 
-![sttr](https://repo.x-cmd.io/sttr.svg)
+![sttr](https://repo.x-cmd.io/sttr.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install sttr
 ```
+
+## 代码规模
+
+合计: **15,343** 行代码（覆盖前 5 种语言、共 **141** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 14,950 | 734 | 1,952 | 132 |
+| Sh | 362 | 13 | 18 | 1 |
+| Toml | 20 | 49 | 18 | 1 |
+| Svg | 11 | 0 | 16 | 1 |
+| Markdown | 0 | 358 | 153 | 6 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install sttr
 - **最新版本**: `v0.2.30` (2025-12-25)
 - **最近提交**: 2025-12-25
 - **Release 含资产**: 31 个
-- **发布时间**: 2025-12-25T11:11:01Z
 
 ## 流行度
 
@@ -37,20 +48,56 @@ x install sttr
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 2 | 0 |
 | 360d | 2025-09-15 | 3 | 1 | 1 | 0 | 3 | 17 |
+| last720d | 2024-09-20 | 7 | 9 | 1 | 5 | 4 | 43 |
 
-## 代码规模
+## Release 资产
 
-合计: **15,343** 行代码（覆盖前 5 种语言、共 **141** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [sttr_0.2.30_checksums.txt](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_checksums.txt) | 2.7 KiB | `other` |
+| [sttr_0.2.30_checksums.txt.sigstore.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_checksums.txt.sigstore.json) | 9.6 KiB | `other` |
+| [sttr_0.2.30_linux_386.deb](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_386.deb) | 2.9 MiB | `other` |
+| [sttr_0.2.30_linux_386.pkg.tar.zst](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_386.pkg.tar.zst) | 2.9 MiB | `other` |
+| [sttr_0.2.30_linux_386.rpm](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_386.rpm) | 3.0 MiB | `other` |
+| [sttr_0.2.30_linux_amd64.deb](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_amd64.deb) | 3.0 MiB | `native/linux/x64` |
+| [sttr_0.2.30_linux_amd64.pkg.tar.zst](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_amd64.pkg.tar.zst) | 3.0 MiB | `native/linux/x64` |
+| [sttr_0.2.30_linux_amd64.rpm](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_amd64.rpm) | 3.1 MiB | `native/linux/x64` |
+| [sttr_0.2.30_linux_arm64.deb](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_arm64.deb) | 2.8 MiB | `native/linux/arm64` |
+| [sttr_0.2.30_linux_arm64.pkg.tar.zst](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_arm64.pkg.tar.zst) | 2.7 MiB | `native/linux/arm64` |
+| [sttr_0.2.30_linux_arm64.rpm](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_0.2.30_linux_arm64.rpm) | 2.8 MiB | `native/linux/arm64` |
+| [sttr_Darwin_all.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Darwin_all.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [sttr_Darwin_all.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Darwin_all.tar.gz.sbom.json) | 116.9 KiB | `native/darwin/x64` |
+| [sttr_Freebsd_arm64.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_arm64.tar.gz) | 2.7 MiB | `native/linux/arm64` |
+| [sttr_Freebsd_arm64.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_arm64.tar.gz.sbom.json) | 63.7 KiB | `other` |
+| [sttr_Freebsd_i386.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_i386.tar.gz) | 2.8 MiB | `native/linux/x86` |
+| [sttr_Freebsd_i386.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_i386.tar.gz.sbom.json) | 63.7 KiB | `other` |
+| [sttr_Freebsd_x86_64.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_x86_64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [sttr_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Freebsd_x86_64.tar.gz.sbom.json) | 65.2 KiB | `other` |
+| [sttr_Linux_arm64.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [sttr_Linux_arm64.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_arm64.tar.gz.sbom.json) | 63.6 KiB | `native/linux/arm64` |
+| [sttr_Linux_i386.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_i386.tar.gz) | 2.9 MiB | `native/linux/x86` |
+| [sttr_Linux_i386.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_i386.tar.gz.sbom.json) | 63.6 KiB | `native/linux/x86` |
+| [sttr_Linux_x86_64.tar.gz](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_x86_64.tar.gz) | 3.0 MiB | `native/linux/x64` |
+| [sttr_Linux_x86_64.tar.gz.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Linux_x86_64.tar.gz.sbom.json) | 65.1 KiB | `native/linux/x64` |
+| [sttr_Windows_arm64.zip](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_arm64.zip) | 2.8 MiB | `native/win/arm64` |
+| [sttr_Windows_arm64.zip.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_arm64.zip.sbom.json) | 69.4 KiB | `native/win/arm64` |
+| [sttr_Windows_i386.zip](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_i386.zip) | 3.0 MiB | `native/win/x64` |
+| [sttr_Windows_i386.zip.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_i386.zip.sbom.json) | 69.4 KiB | `native/win/x64` |
+| [sttr_Windows_x86_64.zip](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_x86_64.zip) | 3.1 MiB | `native/win/x64` |
+| [sttr_Windows_x86_64.zip.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_x86_64.zip.sbom.json) | 70.9 KiB | `native/win/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 14,950 | 734 | 1,952 | 132 |
-| Sh | 362 | 13 | 18 | 1 |
-| Toml | 20 | 49 | 18 | 1 |
-| Svg | 11 | 0 | 16 | 1 |
-| Markdown | 0 | 358 | 153 | 6 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/sttr) 上共有 **15** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.2.30` | ✅ latest |
+| Nix unstable | `0.2.30` | ✅ latest |
 
 ## 改进这些数据
 
@@ -61,4 +108,4 @@ sttr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:55:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:35:58Z._
