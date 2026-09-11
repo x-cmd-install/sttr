@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.30"
   latestRelease: "v0.2.30"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:46:02Z
+  collectedAt: 2026-09-11T19:12:05Z
 timeline:
   created: 2021-09-18
   lastCommit: 2025-12-25
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 1348
   watcher: 8
-  fork: 49
+  fork: 50
   release: 34
   contributor: 15
-  pullRequest: 37
+  pullRequest: 38
   issue: 35
 language:
   Go: 289747
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 0
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 0
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 0
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-15
     release: 0
     mergedPR: 0
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 2
     commit: 0
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-16
     release: 3
     mergedPR: 1
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 3
     commit: 17
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-21
     release: 7
     mergedPR: 9
-    openPR: 1
+    openPR: 2
     closedIssue: 5
     openIssue: 4
     commit: 43
 total:
   release: 34
   mergedPR: 30
-  openPR: 1
+  openPR: 2
   closedIssue: 24
   openIssue: 11
   commit: 250
 ---
 path: /home/runner/.x-repo/github.com/abhimanyu003/sttr
-collectedAt: 2026-09-11T05:46:03Z
+collectedAt: 2026-09-11T19:12:06Z
 loc:
   Go:
     code: 14950
