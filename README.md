@@ -37,7 +37,7 @@ Total: **15,343** lines of code across **141** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,351 · **Forks**: 50 · **Open issues**: 35 · **Contributors**: 15
+- **Stars**: 1,352 · **Forks**: 51 · **Open issues**: 35 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **15,343** lines of code across **141** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 360d | 2025-10-03 | 3 | 0 | 2 | 0 | 3 | 14 |
-| last720d | 2024-10-08 | 7 | 9 | 2 | 5 | 4 | 43 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 360d | 2025-10-04 | 3 | 0 | 2 | 0 | 3 | 14 |
+| last720d | 2024-10-09 | 7 | 9 | 2 | 5 | 4 | 43 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sttr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:21:42Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:53:27Z._
