@@ -37,22 +37,22 @@ Total: **15,343** lines of code across **141** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,354 · **Forks**: 51 · **Open issues**: 35 · **Contributors**: 15
+- **Stars**: 1,354 · **Forks**: 52 · **Open issues**: 35 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 30 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 11 · **Commits**: 250
+- **Releases**: 34 · **Merged PRs**: 30 · **Open PRs**: 3 · **Closed issues**: 24 · **Open issues**: 11 · **Commits**: 250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 2 | 0 | 2 | 0 |
-| 360d | 2025-10-26 | 2 | 0 | 2 | 0 | 2 | 14 |
-| last720d | 2024-10-31 | 6 | 9 | 2 | 5 | 4 | 40 |
+| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 360d | 2025-10-27 | 2 | 0 | 3 | 0 | 2 | 14 |
+| last720d | 2024-11-01 | 6 | 9 | 3 | 5 | 4 | 40 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sttr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:46:32Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:40:46Z._
