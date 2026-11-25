@@ -47,12 +47,12 @@ Total: **15,343** lines of code across **141** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 2 | 0 | 2 | 0 | 2 | 12 |
-| last720d | 2024-12-04 | 6 | 9 | 2 | 5 | 4 | 40 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 2 | 0 | 2 | 0 | 2 | 12 |
+| last720d | 2024-12-05 | 6 | 9 | 2 | 5 | 4 | 40 |
 
 ## Release assets
 
@@ -90,15 +90,6 @@ Total: **15,343** lines of code across **141** files in the top 5 languages.
 | [sttr_Windows_x86_64.zip](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_x86_64.zip) | 3.1 MiB | `native/win/x64` |
 | [sttr_Windows_x86_64.zip.sbom.json](https://github.com/abhimanyu003/sttr/releases/download/v0.2.30/sttr_Windows_x86_64.zip.sbom.json) | 70.9 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/sttr). **10** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.2.30` | ✅ latest |
-| Nix unstable | `0.2.30` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sttr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sttr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +99,4 @@ Install metadata for sttr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:28:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:22:41Z._
